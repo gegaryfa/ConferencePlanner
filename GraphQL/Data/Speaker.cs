@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace GraphQL.Data
+namespace ConferencePlanner.GraphQL.Data
 {
     public class Speaker
     {

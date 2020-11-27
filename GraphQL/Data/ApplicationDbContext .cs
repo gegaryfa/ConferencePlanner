@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace GraphQL.Data
+namespace ConferencePlanner.GraphQL.Data
 {
     public class ApplicationDbContext : DbContext
     {

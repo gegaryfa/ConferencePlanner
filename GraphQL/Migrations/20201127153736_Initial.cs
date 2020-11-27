@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace GraphQL.Migrations
+namespace ConferencePlanner.GraphQL.Migrations
 {
     public partial class Initial : Migration
     {

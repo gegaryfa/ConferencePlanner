@@ -1,10 +1,10 @@
 ﻿using System.Linq;
 
-using GraphQL.Data;
+using ConferencePlanner.GraphQL.Data;
 
 using HotChocolate;
 
-namespace GraphQL
+namespace ConferencePlanner.GraphQL
 {
     public class Query
     {

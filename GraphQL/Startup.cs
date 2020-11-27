@@ -1,4 +1,4 @@
-using GraphQL.Data;
+using ConferencePlanner.GraphQL.Data;
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace GraphQL
+namespace ConferencePlanner.GraphQL
 {
     public class Startup
     {
